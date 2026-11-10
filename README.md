@@ -2,7 +2,7 @@
 
 **Paura Multi-Store** to lokalna aplikacja desktopowa do zarządzania sprzedażą i obsługą zamówień na platformie Allegro.
 
-Aplikacja została opracowana na potrzeby własnej działalności gospodarczej i umożliwia obsługę trzech kont sprzedawców Allegro w jednym interfejsie.
+Aplikacja została opracowana nieodpłatnie na potrzeby wewnętrznej obsługi trzech kont Allegro należących do firmy członka rodziny. Nie jest oferowana jako usługa komercyjna. Aplikacja umożliwia obsługę trzech kont sprzedawców Allegro w jednym interfejsie.
 
 ## Główne funkcjonalności
 
